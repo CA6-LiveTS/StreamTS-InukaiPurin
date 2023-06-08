@@ -1,5 +1,6 @@
 2023-05-30 ~ 【EDF 5】playing on controller o_o o_o o_o ~ YouTube
-Timestamp:
+URL: https://www.youtube.com/watch?v=pS8fmeXxdGs
+LiveTs:
 0:00:00 ~ Start        ~ Loading Screen
 0:16:05 ~ Zatsudan
 0:41:50 ~ Gaming   ~ Earth Defense Force 5

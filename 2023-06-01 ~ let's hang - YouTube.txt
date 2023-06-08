@@ -1,5 +1,6 @@
 2023-06-01 ~ let's hang - YouTube
-Timestamp:
+URL: https://www.youtube.com/watch?v=msMF7IzM5fI
+LiveTs:
 0:00:00 Start
 0:03:43 Gaming ~ Needy Streamer Overload ~ Data 1 - Day 1
 0:15:40 Gaming ~ Needy Streamer Overload ~ Data 2 - Day 27

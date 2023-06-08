@@ -1,5 +1,6 @@
 2023-05-29 ~ sing - YouTube
-Timestamp:
+URL: https://www.youtube.com/watch?v=isPcxrhAbOY
+LiveTs:
 0:00:00 ~ Loading Screen
 0:03:45 ~ Stream Begining
 0:04:28 ~ Shinshido Rumi - Purupuru Pururin (Welcome To The N.H.K.!)
