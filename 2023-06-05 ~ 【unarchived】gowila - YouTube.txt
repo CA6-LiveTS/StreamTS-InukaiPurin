@@ -26,7 +26,7 @@ Chapters:
 4:15:25 Break
 4:35:03 Zatsudan
 4:58:20 Break ~ Get food
-5:01:01 Zatsudan ~ loading Screen
+5:01:01 Zatsudan ~ Loading Screen
 5:04:17 Zatsudan ~ Watching Video - Angry Video Game Nerd
 5:25:58 Break
 5:27:11 Watching Video - Angry Video Game Nerd
@@ -34,8 +34,8 @@ Chapters:
 5:36:55 Karaoke ~ Kenny Loggins - Danger Zone
 5:39:05 Karaoke ~ Matchbox Twenty – Unwell
 5:41:00 Karaoke ~ Green Day - 21 Guns
-5:44:20 Karaoke ~ Join The Club - nobela
-5:45:06 Karaoke ~ Join The Club - nobela
+5:44:20 Karaoke ~ Join The Club - Nobela
+5:45:06 Karaoke ~ Join The Club - Nobela
 5:50:31 Karaoke ~ ? (PH song?)
 5:53:50 Karaoke ~ Itchyworms - Di Na Muli
 5:58:35 Karaoke ~ FIFTY FIFTY - Cupid
@@ -63,7 +63,7 @@ Chapters:
 7:50:55 Karaoke ~ FLOW - Colors (Code Geass)
 7:55:02 Karaoke ~ Tomoko Aran - I'm in Love
 8:02:43 Misc ~ Chubby Chest
-8:06:45 Karaoke ~ imase - NIGHT DANCER
+8:06:45 Karaoke ~ Imase - NIGHT DANCER
 8:11:20 Karaoke ~ Hatsune Miku - PoPiPo
 8:15:35 Karaoke ~ Eve, Hatsune Miku - Tokyo Ghetto
 8:18:31 Karaoke ~ Eve, Hatsune Miku - Okinimesumama
@@ -116,7 +116,7 @@ Chapters:
 11:32:20 Karaoke ~ Coldplay - Viva La Vida
 11:36:40 Karaoke ~ Coldplay - Yellow
 11:42:12 Karaoke ~ Harry Styles - Sign of the Times
-11:45:49 Karaoke ~ berlin - Take My Breath Away
+11:45:49 Karaoke ~ Berlin - Take My Breath Away
 11:52:43 Karaoke ~ Simple Minds - Don't You
 11:58:16 Karaoke ~ Anna Kendrick - Cups
 12:02:05 Karaoke ~ Fools Garden - Lemon Tree
