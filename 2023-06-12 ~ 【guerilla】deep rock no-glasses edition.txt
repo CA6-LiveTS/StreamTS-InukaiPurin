@@ -8,18 +8,22 @@ LiveTs:
 1:01:00 Karaoke ~ Patsy Cline - Crazy
 1:05:10 Karaoke ~ Shinshido Rumi - Purupuru Pururin (Welcome To The N.H.K.!)
 1:09:45 Karaoke ~ Hanyuu (Yui Horie) - Hauu Nanodesu~!
-
-
-0:00:00 Karaoke ~ 
-0:00:00 Karaoke ~ 
-0:00:00 Karaoke ~ 
-0:00:00 Karaoke ~ 
-0:00:00 Karaoke ~ 
-0:00:00 Karaoke ~ 
-0:00:00 Karaoke ~ 
-0:00:00 Karaoke ~ 
-
-
+1:15:15 Break
+1:28:55 @TS ~ Collar Sound
+1:30:45 Karaoke ~ Imase - NIGHT DANCER
+1:34:35 Karaoke ~ YOASOBI - Gunjō
+1:37:35 Karaoke ~ 4 Non Blondes – Whats Going On
+1:42:00 Break
+1:45:00 Zatsudan ~ Loading Screen
+1:56:50 Karaoke ~ Twinkle, Twinkle, Little Star (Nursery Rhymes)
+1:59:45 Karaoke ~ Busted (Phineas and Ferb)
+2:01:00 Karaoke ~ E.V.I.L. B.O.Y.S. (Phineas and Ferb)
+2:02:10 Karaoke ~ Gitchee Gitchee Goo (Phineas and Ferb)
+2:03:55 Karaoke ~ Queen Of Mars (Phineas and Ferb)
+2:06:10 Karaoke ~ ???
+2:13:10 Karaoke ~ Moira Dela Torre - TITIBO TIBO
+2:16:20 Karaoke ~ ???
+2:19:20 Karaoke ~ Rey Valera - Kahit Maputi Na Ang Buhok KO
 4:20:15 Gaming ~ DRG
 5:05:00 Ending
 5:05:43 End
