@@ -3,6 +3,7 @@ URL: https://www.youtube.com/watch?v=lBkVY1Toh-0
 LiveTs:
 0:00:00 Start
 0:03:45 Zatsudan
+0:07:55 @TS ~ Little Purin Jumping on the bed
 0:34:51 Karaoke ~ Yukopi - Kyoufuu Oorubakku
 0:37:06 @TS ~ randoseru
 0:38:21 @TS ~ pull it
@@ -33,7 +34,3 @@ LiveTs:
 2:32:20 Karaoke ~ Rick Astley - Together Forever
 2:36:22 Ending
 2:37:55 End
-
-
-
-
