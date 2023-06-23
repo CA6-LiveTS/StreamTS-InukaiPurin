@@ -1,0 +1,29 @@
+[repo]
+type="LiveTS_repo_v1"
+name="StreamTS-InukaiPurin"
+contact="livets@ca6.dev"
+enabled=1
+
+[channel]
+id="UCdrQWcX7XLDSUEh9SAxnyBg"
+handle="inukaipuwin"
+name="Purin ch. 犬養プリン "
+
+[livets]
+# video ID, LiveTS file
+"ueWMaifRN2Y","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-05-23%20~%20quiet%20guerilla%20(im%20sick%2C%20sorry!)%20-%20YouTube.txt"
+"isPcxrhAbOY","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-05-29%20~%20sing%20-%20YouTube.txt"
+"pS8fmeXxdGs","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-05-30%20~%20%E3%80%90EDF%205%E3%80%91playing%20on%20controller%20o_o%20o_o%20o_o%20~%20YouTube.txt"
+"msMF7IzM5fI","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-06-01%20~%20let's%20hang%20-%20YouTube.txt"
+"l1xf-MvuKDE","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-06-01%20~%20%E3%80%90Left%204%20Dead%202%E3%80%91CUTE%20Collab!!%20~%20YouTube.txt"
+"gZN7rBxezZQ","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-06-05%20~%20%E3%80%90unarchived%E3%80%91gowila%20-%20YouTube.txt"
+"S8tIhq4TgeA","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-06-06%20~%20%E3%80%90%E3%80%91gorilla%20no%20glasses%20edition%20-%20YouTube.txt"
+"dZlIpjAR0Mw","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-06-08%20~%20%E3%80%90%E3%80%91deep%20rock%20gorilla%20-%20YouTube.txt"
+"bNHJQRdy0Ok","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-06-12%20~%20%E3%80%90guerilla%E3%80%91deep%20rock%20no-glasses%20edition.txt"
+"ZRvpwH9FnkE","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-06-15%20~%20%E3%80%90guerilla%E3%80%91Deep%20Rock%20Galactic%20!!!!!!!!!%20-%20YouTube.txt"
+"sFYMXaR1MG4","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-06-15%20~%20%E3%80%90guerilla%E3%80%91g-ge%3F%20-%20YouTube.txt"
+"0IKRPO1WPJc","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-06-15%20~%20%E3%80%90guerilla%E3%80%91iii%20i%20ii%20ii%20(scream)%20-%20YouTube.txt"
+"h14vU_OPnls","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-06-18%20~%20%E3%80%90guerilla%E3%80%91i%20-%20YouTube.txt"
+"lBkVY1Toh-0","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-06-20%20~%20%E3%80%90guerilla%E3%80%91i%20am%20the%20sufferer%20of%20the%20great%20TUMMY%20HORT%20-%20YouTube.txt"
+"NBMV3e_iEXQ","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-06-21%20~%20%E3%80%90guerilla%E3%80%91aiaiaiaim%20so%20cold%20-%20YouTube.txt"
+"PGQ28B1ul28","https://github.com/CA6-LiveTS/StreamTS-InukaiPurin/blob/main/2023-06-21%20~%20%E3%80%90guerilla%E3%80%91ehe%20-%20YouTube.txt"
