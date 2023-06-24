@@ -35,5 +35,3 @@ LiveTs:
 3:02:34 @TS ~ Hello Handsome
 3:59:31 Ending
 4:00:00 End
-
-
