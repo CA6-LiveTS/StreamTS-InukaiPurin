@@ -14,7 +14,15 @@ LiveTs:
 1:57:07 @TS ~ HotDog
 1:59:08 Break
 2:00:03 Zatsudan
-2:00:50 Karaoke - (will add song TS later)
+2:00:50 Karaoke
+2:01:09 Karaoke ~ Mickey Mouse Clubhouse Theme Song
+2:02:53 Karaoke ~ Mickey Mouse Clubhouse - Hot Dog!
+2:04:28 Zatsudan
+2:12:49 Break
+2:15:22 Zatsudan
+2:16:28 @TS ~ Is that a Tiger or a Kitten?
+2:18:50 Karaoke ~ Yukopi - Kyoufuu Oorubakku
+...
 3:10:41 Gaming ~ DRG
 3:17:18 Gaming ~ DRG - Mission 1
 3:31:45 Gaming ~ DRG - Mission 2
