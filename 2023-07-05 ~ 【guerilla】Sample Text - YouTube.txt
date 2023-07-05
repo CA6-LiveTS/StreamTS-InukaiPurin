@@ -9,7 +9,7 @@ LiveTs:
 0:13:30 !TS ~ Hiccups
 0:14:44 !TS ~ Tummy slap
 0:18:02 !TS ~ Yawn
-0:21:08 !TS ~ staminya
+0:21:08 !TS ~ Staminya
 0:21:16 !TS ~ Ojii-san stamina
 0:26:36 !TS ~ Ojii-san Purin
 0:27:51 !TS ~ Collar Bounce
@@ -25,7 +25,7 @@ LiveTs:
 0:56:14 !TS ~ Blindfold
 0:57:54 !TS ~ Christmas Light
 0:58:51 !TS ~ kindergarten Hat
-1:03:16 !TS ~ USA copy pasta (Volume Warning)
+1:03:16 !TS ~ USA copypasta (Volume Warning)
 1:07:38 !TS ~ Anonymous kindergartener
 1:10:50 !TS ~ Prup
 1:11:21 !TS ~ You guys are Creep
@@ -59,7 +59,18 @@ LiveTs:
 2:27:31 !TS ~ Squeaky Toy
 2:27:49 !TS ~ Purin Hammer Head
 2:31:48 Karaoke ~ P*ss on my lips (Hall & Oates - Kiss on My List)
-
-
-99:00:00 Ending
-99:00:00 End
+2:35:49 Karaoke ~ Fools Garden - Lemon Tree
+2:40:19 Karaoke ~ Alan Jackson - Chattahoochee
+2:45:55 Karaoke ~ Hanyuu (Yui Horie) - Hauu Nanodesu~!
+2:51:17 Karaoke ~ Shinshido Rumi - Purupuru Pururin (Welcome To The N.H.K.!)
+2:56:11 Karaoke ~ Jiggly Puff
+2:58:37 Karaoke ~ Adele - Easy on Me
+3:00:57 Karaoke ~ Itchyworms - Beer
+3:07:31 Karaoke ~ Sam Smith - I'm Not The Only One
+3:12:51 Karaoke ~ Sohta - Ikanaide
+3:16:50 Karaoke ~ MikitoP - Sayoko
+3:25:07 Karaoke ~ Yukopi - Kyoufuu Oorubakku
+3:28:04 Karaoke ~ Paul Engemann - Push It To The Limit (Scarface)
+3:31:15 !TS ~ To The Limit!!! (Volume Warning)
+3:31:43 Ending
+3:32:39 End
