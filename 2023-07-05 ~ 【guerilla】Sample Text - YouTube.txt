@@ -53,8 +53,12 @@ LiveTs:
 2:18:41 !TS ~ Pee in the shower
 2:18:50 !TS ~ Woo! The pee is going out!
 2:20:55 !TS ~ Pin me down
-
-
+2:23:23 !TS ~ Uoh
+2:23:57 !TS ~ Buzzer (Volume Warning)
+2:26:04 !TS ~ Default Attack
+2:27:31 !TS ~ Squeaky Toy
+2:27:49 !TS ~ Purin Hammer Head
+2:31:48 Karaoke ~ P*ss on my lips (Hall & Oates - Kiss on My List)
 
 
 99:00:00 Ending
