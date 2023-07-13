@@ -2,8 +2,14 @@
 URL: https://www.youtube.com/watch?v=RfMarE69emg
 LiveTs:
 0:00:00 Start
-
-
-
-
-
+0:02:13 !TS ~ Game Music? (volume warning)
+0:02:29 Loading ~ Zatsu
+0:05:08 Gaming ~ Vampire Survivors
+0:05:46 !TS ~ Purin want her pillow
+0:08:21 Gaming ~  Vampire Survivors - Mad Forest
+0:09:51 !TS ~ Holocure is Vampire Survivor Easy Mode
+0:10:35 !TS ~ Holocure is Baby mode
+0:13:18 !TS ~ Give Purin chicken tendies
+0:23:25 !TS ~ Gaming ~  Vampire Survivors - Game Over
+0:24:08 Ending
+0:24:18 End
