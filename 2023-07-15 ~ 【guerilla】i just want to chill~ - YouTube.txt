@@ -22,6 +22,7 @@ LiveTs:
 1:14:05 !TS ~ He looks like he is having a great day
 1:14:22 !TS ~ He looks like he has money
 1:17:49 !TS ~ How do you smoke a crack?
+1:18:18 !TS ~ I want to rob this place (+ cute noise)
 1:22:28 !TS ~ Bank Attack
 1:24:43 !TS ~ How do I rob the Bank?
 1:28:53 !TS ~ I'll give you a reason to call the f-ing cops
