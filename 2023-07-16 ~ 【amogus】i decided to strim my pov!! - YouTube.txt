@@ -4,15 +4,44 @@ LiveTs:
 0:00:00 Start
 0:05:28 Loading ~ Zatsu
 0:06:23 Gaming ~ Among Us
-0:06:24 !LiveTS ~ TODO: missing TS
+0:17:32 Gaming ~ Among Us - Game 1, Crewmate
+0:18:18 !TS ~ Purin finds a dead body
+0:22:39 !TS ~ Look at me!, Cry
+0:24:43 Gaming ~ Among Us - Game 2, Crewmate
+0:28:03 !TS ~ Don't kill me, please
+0:28:37 !TS ~ Stack Kill
+0:36:27 !TS ~ Purin gets killed
+0:43:00 Gaming ~ Among Us - Game 3, Crewmate
+0:43:09 !TS ~ My name is KamiKani
+0:43:36 !TS ~ Purin gets killed (Scream & Cry)
+0:45:50 !TS ~ Health issue and doctor visit
+1:12:52 Gaming ~ Among Us - Game 4, Crewmate
+1:14:04 !TS ~ Scream
+1:16:10 !TS ~ Purin Scared (Scream)
+1:16:26 !TS ~ Scream
+1:17:17 !TS ~ Scream
+1:17:27 !TS ~ Scream
+1:17:55 !TS ~ Scream
+1:18:00 !TS ~ Beg for life
+1:18:09 !TS ~ Cute Scared Noise
+1:19:30 Gaming ~ Among Us - Game 5, Crewmate
+1:20:30 !TS ~ Cute Noise
+1:20:41 !TS ~ Cute Noise
+1:23:04 !TS ~ Scream
+1:23:34 !TS ~ Purin gets killed (Scream & Cry)
+1:25:01 Gaming ~ Among Us - Game 6, Crewmate
+1:27:41 !TS ~  Scream
+1:27:41 Gaming ~ Among Us - Game 7, Crewmate
+1:33:37 !TS ~  Nya?
+1:34:30 !TS ~ Purin gets killed (Scream & Cry)
 1:45:20 Zatsudan
 1:46:55 !TS ~ Busy from 27 to 31 July
 1:48:19 !TS ~ She will DeepL
-1:49:10 !TS ~ She only know japaness if she try to taunt ojiisan
-1:49:41 !TS ~ Purin only know easy modo Japaness
+1:49:10 !TS ~ She only knows japaness if she tries to taunt Ojiisan
+1:49:41 !TS ~ Purin only knows easy modo Japanese
 1:51:57 !TS ~ Little Update - Health Issues
-1:52:48 !TS ~ No need to worry, It will be fine
-1:55:00 !TS ~ Purin don't want to talk over anyone
+1:52:48 !TS ~ No need to worry. It will be fine
+1:55:00 !TS ~ Purin doesn't want to talk over anyone
 1:55:37 !TS ~ Purin can't hold her scream
 1:58:54 !TS ~ All my managers were good... eh, ok, maybe...
 2:00:12 !TS ~ Want to play Postal (cute)
