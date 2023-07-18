@@ -6,6 +6,6 @@ LiveTs:
 0:52:01 Loading
 0:54:14 Gaming ~ Minesweeper
 1:26:31 Zatsudan
-1:26:32 !LiveTS ~ TODO: missing TS
+0:00:00 !LiveTS ~ TODO: missing TS
 4:38:38 Ending
 4:39:10 End
