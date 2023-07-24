@@ -3,8 +3,15 @@ URL: https://www.youtube.com/watch?v=hHFIKkVsVIY
 LiveTs:
 0:00:00 Start
 0:02:19 Zatsudan
-0:03:10 !TS ~ Fake flan (Anon) complaining about scream in maro
-0:00:00 !LiveTS ~ TODO: missing TS
+0:03:10 !TS ~ Redditor complaining about scream in maro want compressor
+0:03:11 !Zatsudan ~ Ajusting Compressor Settings
+0:46:03 Loading
+0:50:57 Gaming ~ Ice Climber
+0:58:47 Loading
+1:02:11 Gaming ~ Circus Charlie
+1:16:16 Loading
+1:21:51 Zatsudan
+1:22:14 !TS ~ Use your imagination on this
 1:24:15 !TS ~ Imagine tiny Purin trying to choke you
 1:27:53 Gaming ~ Yeah! You want those games...
 1:28:20 !Gaming ~ Yeah! You want those games - Color Lab
@@ -155,14 +162,76 @@ LiveTs:
 4:57:41 !Karaoke ~ Panic! At The Disco - LA Devotee
 5:01:20 !Karaoke ~ Panic! At The Disco - Girls / Girls / Boys
 5:05:40 !Karaoke ~ Jun Togawa - Suki Suki Daisuki
-
-
-
-
-
-
-
-
-
-
-
+5:09:22 !Karaoke ~ Jillian Ashcraft - Your Reality (DDLC)
+5:13:48 !Karaoke ~ Aimer - ninelie
+5:18:10 !Karaoke ~ Aimer - RE:I AM
+5:23:59 !Karaoke ~ Miho Karasawa - Sincerely
+5:28:41 !Karaoke ~ Eiko Shimamiya - ひぐらしのな (Higurashi no naku koro ni)
+5:31:16 Break ~ bathroom
+5:33:33 Zatsudan ~ Eating Borgor
+5:35:14 !TS ~ Look nothing in my mouth, swalowed it all
+5:35:41 Break ~ Getting Water
+5:39:54 Zatsudan
+5:47:36 !TS ~ Cute Noise
+5:51:42 !TS ~ Cute Noise
+5:56:37 Karaoke ~ Rode NT1 User Manual
+5:56:37 !Karaoke ~ Rode NT1 Rap Spanish Version
+5:58:22 !Karaoke ~ Rode NT1 Rap English Version
+5:59:31 Zatsudan
+6:00:47 !TS ~ Purin is invading your home town
+6:03:32 Break ~ bathroom
+6:03:34 !TS ~ Booo! googoo gaga
+6:15:00 !TS ~ You know what that sound is?
+6:15:33 Zatsudan ~ With pacifier
+6:19:33 Gaming ~ Yeah! You want those games...
+6:19:54 !Gaming ~ Yeah! You want those games - Color Lab
+6:20:01 !TS ~ Color Lab - Level 29
+6:24:04 !TS ~ See guys, I'm not dumb
+6:24:23 !TS ~ Color Lab - Level 30
+6:25:18 !TS ~ Color Lab - Level 31
+6:25:46 !TS ~ So easy, Easy Modo
+6:26:00 !TS ~ Color Lab - Level 32
+6:26:38 !TS ~ Color Lab - Level 33
+6:27:30 !TS ~ Color Lab - Level 34
+6:27:19 !TS ~ This is a game for adult, I can't believe it
+6:28:18 !TS ~ Color Lab - Level 35
+6:29:39 !TS ~ Color Lab - Level 36
+6:30:24 !TS ~ Color Lab - Level 37
+6:31:15 !TS ~ Color Lab - Level 38
+6:32:09 !TS ~ Color Lab - Level 39
+6:37:56 !TS ~ Too much for baby brain
+6:39:45 !TS ~ Color Lab - Level 40
+6:42:37 !TS ~ Baby got it
+6:42:57 !TS ~ Color Lab - Level 41
+6:43:45 !TS ~ Baby is fine
+6:43:58 !TS ~ Color Lab - Level 42
+6:45:05 !TS ~ Color Lab - Level 43
+6:46:30 !TS ~ Color Lab - Level 44
+6:47:27 !TS ~ Color Lab - Level 45
+6:48:15 !TS ~ Color Lab - Level 46
+6:49:20 !TS ~ Color Lab - Level 47
+6:51:21 !TS ~ Color Lab - Level 48
+6:53:18 !TS ~ Color Lab - Level 49
+6:54:08 !TS ~ Color Lab - Level 50
+6:55:21 !Gaming ~ Yeah! You want those games - Number Tower
+6:55:23 !TS ~ Number Tower - Level 9
+6:55:58 !TS ~ Number Tower - Level 10
+6:56:51 !TS ~ Number Tower - Level 11
+6:57:48 !TS ~ Number Tower - Level 12
+6:58:25 !TS ~ Number Tower - Level 13
+6:58:42 !TS ~ Pacifier noise
+6:58:56 !TS ~ Number Tower - Level 14
+6:59:58 !TS ~ Number Tower - Level 15
+7:00:51 !TS ~ Number Tower - Level 16
+7:01:24 !TS ~ Number Tower - Level 17
+7:04:35 !Gaming ~ Yeah! You want those games - Parking Lot 
+7:04:39 !TS ~ Parking Lot  - Level 24
+7:14:20 !TS ~ Number Tower - Level 25
+7:19:39 !Gaming ~ Yeah! You want those games - Cash Run
+7:19:41 !TS ~ Cash Run - Level 4
+7:20:48 !TS ~ Cash Run - Level 5
+7:21:36 !TS ~ Cash Run - Level 6
+7:22:36 Zatsudan
+7:22:43 !TS ~ Sleepy and grumpy
+7:24:40 Ending
+7:25:07 End
