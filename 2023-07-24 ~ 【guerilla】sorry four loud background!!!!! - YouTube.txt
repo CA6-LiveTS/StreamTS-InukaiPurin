@@ -7,7 +7,7 @@ LiveTs:
 0:00:00 !LiveTS ~ TODO: missing TS
 1:24:15 !TS ~ Imagine tiny Purin trying to choke you
 1:27:53 Gaming ~ Yeah! You want those games...
-1:28:20 Gaming ~ Yeah! You want those games - Color Lab
+1:28:20 !Gaming ~ Yeah! You want those games - Color Lab
 1:28:21 !TS ~ Color Lab - Level 1
 1:28:53 !TS ~ Color Lab - Level 2
 1:29:10 !TS ~ Color Lab - Level 3
@@ -16,12 +16,12 @@ LiveTs:
 1:30:53 !TS ~ Color Lab - Level 6
 1:30:54 !TS ~ googo gaga
 1:32:17 !TS ~ Color Lab - Level 7
-1:32:37 Gaming ~ Yeah! You want those games - Cash Run
+1:32:37 !Gaming ~ Yeah! You want those games - Cash Run
 1:32:38 !TS ~ Cash Run - Level 1
 1:33:13 !TS ~ Cash Run - Level 2
 1:33:59 !TS ~ Cash Run - Level 2
 1:34:27 !TS ~ Cash Run - Level 3
-1:35:15 Gaming ~ Yeah! You want those games - Parking Lot
+1:35:15 !Gaming ~ Yeah! You want those games - Parking Lot
 1:35:16 !TS ~ Parking Lot - Level 1
 1:36:12 !TS ~ Parking Lot - Level 2
 1:36:32 !TS ~ Parking Lot - Level 3
@@ -40,7 +40,7 @@ LiveTs:
 1:43:29 !TS ~ Parking Lot - Level 14
 1:44:32 !TS ~ Parking Lot - Level 15
 1:45:25 !TS ~ Parking Lot - Level 16
-1:46:16 Gaming ~ Yeah! You want those games - Number Tower
+1:46:16 !Gaming ~ Yeah! You want those games - Number Tower
 1:46:22 !TS ~ Number Tower - Level 1
 1:46:40 !TS ~ Number Tower - Level 2
 1:47:02 !TS ~ Number Tower - Level 3
@@ -50,13 +50,13 @@ LiveTs:
 1:49:14 !TS ~ Not talking about me! Right?
 1:49:16 !TS ~ Number Tower - Level 7
 1:49:47 !TS ~ Number Tower - Level 8
-1:50:27 Gaming ~ Yeah! You want those games - Pin Pull
+1:50:27 !Gaming ~ Yeah! You want those games - Pin Pull
 1:50:34 !TS ~ Pin Pull - Level 25
 1:51:05 !TS ~ Pin Pull - Level 26
 1:51:35 !TS ~ Easy Modo
-1:51:56 Gaming ~ Yeah! You want those games - Gatcha
-1:52:09 Gaming ~ Yeah! You want those games - Mission
-1:52:24 Gaming ~ Yeah! You want those games - Parking Lot
+1:51:56 !Gaming ~ Yeah! You want those games - Gatcha
+1:52:09 !Gaming ~ Yeah! You want those games - Mission
+1:52:24 !Gaming ~ Yeah! You want those games - Parking Lot
 1:52:27 !TS ~ Parking Lot - Level 17
 1:53:40 !TS ~ Parking Lot - Level 18
 1:54:13 !TS ~ Parking Lot - Level 19
@@ -111,33 +111,50 @@ LiveTs:
 2:30:33 !TS ~ Purin grooming story (not clickbait fr fr)
 2:36:28 !TS ~ Baka Miara
 2:37:56 Karaoke
-2:38:33 Karaoke ~ Baka Mitai (Yakuza)
+2:38:33 !Karaoke ~ Baka Mitai (Yakuza)
 2:39:36 !TS ~ Choke
 2:40:32 !TS ~ Colar too tight
-2:42:12 Karaoke ~ Orange and Lemons - hanggang kailan
-2:44:22 Karaoke ~ Friday Night (Yakuza)
-2:46:17 Karaoke ~ Katy Perry - Last Friday Night
+2:42:12 !Karaoke ~ Orange and Lemons - hanggang kailan
+2:44:22 !Karaoke ~ Friday Night (Yakuza)
+2:46:17 !Karaoke ~ Katy Perry - Last Friday Night
 2:51:48 !TS ~ Omg there is a super typhoon
-2:53:06 Karaoke ~ We Don't Talk About Bruno (Encanto)
-2:56:08 Karaoke ~ Engelbert Humperdinck - Love Me With All Your Heart
+2:53:06 !Karaoke ~ We Don't Talk About Bruno (Encanto)
+2:56:08 !Karaoke ~ Engelbert Humperdinck - Love Me With All Your Heart
 2:59:12 !TS ~ My throat is like: "I wanna choke you"
 3:00:05 !TS ~ I love candy
-3:00:46 Karaoke ~ Anne Murray - ust Another Woman in Love
-3:04:42 Karaoke ~ Luther Vandross - Dance with My Father
-3:07:09 Karaoke ~ Brian McKnight Jr. - Marry Your Daughter
-3:08:58 Karaoke ~ IV Of Spades - Mundo
-3:15:05 Karaoke ~ Ben&Ben - Kathang Isip
-3:22:45 Karaoke ~ Tears for Fears - Everybody Wants to Rule the World Song by Tears for Fears
-3:27:36 Karaoke ~ Itchyworms - Beer
-3:34:10 Karaoke ~ Radiohead - Creep
-3:38:44 Karaoke ~ Patsy Cline - Crazy
-3:42:23 Karaoke ~ Tame Impala - Feels Like We Only Go Backwards
-3:44:16 Karaoke ~ Fools Garden - Lemon Tree
-3:46:43 Karaoke ~ Kali Uchis - telepatía
+3:00:46 !Karaoke ~ Anne Murray - ust Another Woman in Love
+3:04:42 !Karaoke ~ Luther Vandross - Dance with My Father
+3:07:09 !Karaoke ~ Brian McKnight Jr. - Marry Your Daughter
+3:08:58 !Karaoke ~ IV Of Spades - Mundo
+3:15:05 !Karaoke ~ Ben&Ben - Kathang Isip
+3:22:45 !Karaoke ~ Tears for Fears - Everybody Wants to Rule the World Song by Tears for Fears
+3:27:36 !Karaoke ~ Itchyworms - Beer
+3:34:10 !Karaoke ~ Radiohead - Creep
+3:38:44 !Karaoke ~ Patsy Cline - Crazy
+3:42:23 !Karaoke ~ Tame Impala - Feels Like We Only Go Backwards
+3:44:16 !Karaoke ~ Fools Garden - Lemon Tree
+3:46:43 !Karaoke ~ Kali Uchis - telepatía
 3:46:49 !TS ~ Time to sweat
-3:49:16 Karaoke ~ Kali Uchis - Moonlight
-3:53:31 Karaoke ~ Kali Uchis - Melting
-3:57:36 Karaoke ~ BoA - Duvet
+3:49:16 !Karaoke ~ Kali Uchis - Moonlight
+3:53:31 !Karaoke ~ Kali Uchis - Melting
+3:57:36 !Karaoke ~ BoA - Duvet
+4:04:52 !Karaoke ~ Kanako Itou - Garasu no Kutsu (Saya no uta)
+4:10:49 !Karaoke ~ Secret Base (Kimi ga Kureta Mono) (AnoHana)
+4:18:05 !Karaoke ~ CeeLo Green - Forget You
+4:22:34 !Karaoke ~ Arctic Monkeys - Do I Wanna Know?
+4:25:13 !Karaoke ~ Arctic Monkeys - Why’d You Only Call Me When You’re High?
+4:28:30 !Karaoke ~ Arctic Monkeys - 505
+4:30:30 !Karaoke ~ Panic! At The Disco - Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off
+4:31:51 !Karaoke ~ Panic! At The Disco - Death of a Bachelor
+4:36:23 !Karaoke ~ Panic! At The Disco - Nine in the Afternoon
+4:39:13 !Karaoke ~ Panic! At The Disco - But It’s Better If You Do
+4:43:25 !Karaoke ~ Panic! At The Disco - This Is Gospel
+4:47:53 !Karaoke ~ Panic! At The Disco - Emperor’s New Clothes
+4:50:48 !Karaoke ~ Panic! At The Disco - The Ballad of Mona Lisa
+4:55:13 !Karaoke ~ Panic! At The Disco - New Perspective
+4:57:41 !Karaoke ~ Panic! At The Disco - LA Devotee
+5:01:20 !Karaoke ~ Panic! At The Disco - Girls / Girls / Boys
+5:05:40 !Karaoke ~ Jun Togawa - Suki Suki Daisuki
 
 
 
@@ -145,4 +162,7 @@ LiveTs:
 
 
 
-👏👏👏👏👏
+
+
+
+
