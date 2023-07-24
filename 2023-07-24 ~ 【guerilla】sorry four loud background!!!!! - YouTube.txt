@@ -4,7 +4,7 @@ LiveTs:
 0:00:00 Start
 0:02:19 Zatsudan
 0:03:10 !TS ~ Fake flan (Anon) complaining about scream in maro
-...
+0:00:00 !LiveTS ~ TODO: missing TS
 1:24:15 !TS ~ Imagine tiny Purin trying to choke you
 1:27:53 Gaming ~ Yeah! You want those games...
 1:28:20 Gaming ~ Yeah! You want those games - Color Lab
@@ -107,7 +107,7 @@ LiveTs:
 2:23:32 !TS ~ Screw This Game
 2:23:33 Zatsudan
 2:25:32 !TS ~ Erogaki Watashi
-2:27:01 !TS ~ Purin is a valoran egirl
+2:27:01 !TS ~ Purin is a Valorant egirl, UwU
 2:30:33 !TS ~ Purin grooming story (not clickbait fr fr)
 2:36:28 !TS ~ Baka Miara
 2:37:56 Karaoke
@@ -119,6 +119,25 @@ LiveTs:
 2:46:17 Karaoke ~ Katy Perry - Last Friday Night
 2:51:48 !TS ~ Omg there is a super typhoon
 2:53:06 Karaoke ~ We Don't Talk About Bruno (Encanto)
+2:56:08 Karaoke ~ Engelbert Humperdinck - Love Me With All Your Heart
+2:59:12 !TS ~ My throat is like: "I wanna choke you"
+3:00:05 !TS ~ I love candy
+3:00:46 Karaoke ~ Anne Murray - ust Another Woman in Love
+3:04:42 Karaoke ~ Luther Vandross - Dance with My Father
+3:07:09 Karaoke ~ Brian McKnight Jr. - Marry Your Daughter
+3:08:58 Karaoke ~ IV Of Spades - Mundo
+3:15:05 Karaoke ~ Ben&Ben - Kathang Isip
+3:22:45 Karaoke ~ Tears for Fears - Everybody Wants to Rule the World Song by Tears for Fears
+3:27:36 Karaoke ~ Itchyworms - Beer
+3:34:10 Karaoke ~ Radiohead - Creep
+3:38:44 Karaoke ~ Patsy Cline - Crazy
+3:42:23 Karaoke ~ Tame Impala - Feels Like We Only Go Backwards
+3:44:16 Karaoke ~ Fools Garden - Lemon Tree
+3:46:43 Karaoke ~ Kali Uchis - telepatía
+3:46:49 !TS ~ Time to sweat
+3:49:16 Karaoke ~ Kali Uchis - Moonlight
+3:53:31 Karaoke ~ Kali Uchis - Melting
+3:57:36 Karaoke ~ BoA - Duvet
 
 
 
@@ -126,4 +145,4 @@ LiveTs:
 
 
 
-
+👏👏👏👏👏

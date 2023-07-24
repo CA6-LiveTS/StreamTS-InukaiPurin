@@ -88,7 +88,7 @@ LiveTs:
 9:19:30 Karaoke ~ Doris Day - Perhaps, Perhaps, Perhaps
 9:24:04 Karaoke ~ Frank Sinatra - Witchcraft
 9:28:40 Karaoke ~ Frank Sinatra - That's Life
-9:33:42 Karaoke ~ Hajimete No Chuu
+9:33:42 Karaoke ~ Anshin Papa - Hajimete No Chuu
 9:39:54 Misc ~ Kiss Flan
 9:41:20 Karaoke ~ The Foundations - Build Me Up Buttercup
 9:45:00 Karaoke ~ Kavinsky - Nightcall
