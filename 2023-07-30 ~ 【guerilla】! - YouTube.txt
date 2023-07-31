@@ -21,13 +21,13 @@ LiveTs:
 0:27:25 !TS ~ Purin had to go to the bathroom alone through the pain
 0:28:10 !TS ~ Purin move a lot already
 ...
-0:33:23 Loading
+0:33:23 Break
 0:37:00 Zatsudan
 ...
-1:02:21 Loading Screen
+1:02:21 Break
 1:13:18 Zatsudan
 ...
-1:44:47 Loading Screen
+1:44:47 Break
 2:02:23 Zatsudan
 ...
 2:06:13 Ending
